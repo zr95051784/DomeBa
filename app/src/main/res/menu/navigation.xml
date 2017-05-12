@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/bnv_news"
+        android:icon="@mipmap/icon_news"
+        android:title="@string/news" />
+
+    <item
+        android:id="@+id/bnv_joke"
+        android:icon="@mipmap/icon_joke"
+        android:title="@string/joke" />
+
+    <item
+        android:id="@+id/bnv_pic"
+        android:icon="@mipmap/icon_pic"
+        android:title="@string/pic" />
+    <item
+        android:id="@+id/bnv_person"
+        android:icon="@mipmap/icon_person"
+        android:title="@string/person" />
+
+</menu>

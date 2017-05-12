@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DomeBar</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="person">我</string>
+    <string name="pic">美图</string>
+    <string name="joke">笑话</string>
+    <string name="news">新闻</string>
+    <string name="app_url">https://www.baidu.com</string>
+    <string name="pwd">密码</string>
+    <string name="login">登录</string>
+    <string name="name">用户名</string>
+    <string name="register">注册</string>
+    <string name="resigter">密码</string>
+    <string name="logina">登录</string>
+</resources>
